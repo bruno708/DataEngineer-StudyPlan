@@ -1,0 +1,11 @@
+id,nome,cargo,salario,departamento,data_contratacao,idade,email
+101,João Silva,Vendedor,3500.00,Vendas,2023-01-15,28,joao.silva@empresa.com
+102,Maria Santos,Vendedor,3800.00,Vendas,2023-02-20,32,maria.santos@empresa.com
+103,Pedro Costa,Vendedor Senior,4500.00,Vendas,2022-03-10,35,pedro.costa@empresa.com
+104,Ana Oliveira,Gerente de Vendas,6500.00,Vendas,2021-05-12,40,ana.oliveira@empresa.com
+105,Carlos Lima,Vendedor,3600.00,Vendas,2023-06-08,29,carlos.lima@empresa.com
+106,Lucia Ferreira,Analista de TI,5000.00,TI,2022-01-20,31,lucia.ferreira@empresa.com
+107,Roberto Alves,Desenvolvedor,5500.00,TI,2021-08-15,33,roberto.alves@empresa.com
+108,Fernanda Rocha,Gerente de TI,7500.00,TI,2020-04-10,38,fernanda.rocha@empresa.com
+109,Marcos Pereira,Analista Financeiro,4800.00,Financeiro,2022-09-05,30,marcos.pereira@empresa.com
+110,Juliana Souza,Contadora,5200.00,Financeiro,2021-11-22,34,juliana.souza@empresa.com

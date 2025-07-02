@@ -1,0 +1,16 @@
+id,nome,categoria,subcategoria,preco_custo,preco_venda,estoque,fornecedor,data_cadastro,ativo
+1,Notebook Dell Inspiron,Eletrônicos,Computadores,2000.00,2500.00,15,Dell Inc,2023-01-01,true
+2,Mouse Logitech,Eletrônicos,Periféricos,25.00,50.00,100,Logitech,2023-01-01,true
+3,Teclado Mecânico,Eletrônicos,Periféricos,80.00,150.00,50,Corsair,2023-01-01,true
+4,Monitor LG 24,Eletrônicos,Monitores,500.00,800.00,25,LG Electronics,2023-01-01,true
+5,Cadeira Ergonômica,Móveis,Escritório,250.00,400.00,30,Herman Miller,2023-01-01,true
+6,Mesa de Escritório,Móveis,Escritório,350.00,600.00,20,IKEA,2023-01-01,true
+7,iPhone 15,Eletrônicos,Smartphones,800.00,1200.00,40,Apple Inc,2023-01-01,true
+8,iPad Air,Eletrônicos,Tablets,500.00,800.00,35,Apple Inc,2023-01-01,true
+9,Impressora HP,Eletrônicos,Impressoras,200.00,300.00,15,HP Inc,2023-01-01,true
+10,Sofá 3 Lugares,Móveis,Sala,1000.00,1500.00,10,Tok&Stok,2023-01-01,true
+11,Notebook Gamer,Eletrônicos,Computadores,3500.00,4500.00,8,ASUS,2023-01-01,true
+12,Webcam HD,Eletrônicos,Periféricos,100.00,180.00,60,Logitech,2023-01-01,true
+13,Headset Gamer,Eletrônicos,Periféricos,150.00,250.00,45,SteelSeries,2023-01-01,true
+14,Monitor Ultrawide,Eletrônicos,Monitores,1200.00,1800.00,12,Samsung,2023-01-01,true
+15,Mesa Gamer,Móveis,Escritório,400.00,700.00,18,DXRacer,2023-01-01,true

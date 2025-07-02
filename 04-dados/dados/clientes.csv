@@ -1,0 +1,11 @@
+id,nome,email,telefone,cidade,estado,data_cadastro,tipo_cliente
+1,Empresa ABC Ltda,contato@empresaabc.com,11999887766,São Paulo,SP,2023-01-10,Corporativo
+2,João da Silva,joao@email.com,21987654321,Rio de Janeiro,RJ,2023-02-15,Individual
+3,Tech Solutions,vendas@techsolutions.com,31876543210,Belo Horizonte,MG,2023-03-20,Corporativo
+4,Maria Oliveira,maria@email.com,47765432109,Florianópolis,SC,2023-04-25,Individual
+5,Inovação Digital,contato@inovacao.com,85654321098,Fortaleza,CE,2023-05-30,Corporativo
+6,Pedro Santos,pedro@email.com,62543210987,Goiânia,GO,2023-06-05,Individual
+7,Mega Corp,compras@megacorp.com,11432109876,São Paulo,SP,2023-07-10,Corporativo
+8,Ana Costa,ana@email.com,84321098765,Natal,RN,2023-08-15,Individual
+9,StartUp Xyz,hello@startupxyz.com,51210987654,Porto Alegre,RS,2023-09-20,Corporativo
+10,Carlos Lima,carlos@email.com,67109876543,Campo Grande,MS,2023-10-25,Individual
